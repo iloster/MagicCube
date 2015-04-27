@@ -13,4 +13,4 @@
  滑动屏幕，让四种颜色的方块都处于每一行或者每一列
  ```
 ###截图：
-![snapshot](https://github.com/iloster/MagicCube/tree/master/snapshot/snapshot.png)
+![snapshot](https://github.com/iloster/MagicCube/tree/master/snapshot/snapshot.jpg)
